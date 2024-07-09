@@ -11965,4 +11965,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+footer.footer {
+  padding: 15 px;
 }/*# sourceMappingURL=main.css.map */
