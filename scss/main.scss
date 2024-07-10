@@ -2,14 +2,16 @@
 @import 'custom';
 
 html{
-
     position: relative;
     min-height: 100%;
+
 }
 
 footer.footer{
-    padding: 15px;
     position: absolute;
+    padding: 15px;
     bottom: 0;
     width: 100%;
+
+ 
 } 
